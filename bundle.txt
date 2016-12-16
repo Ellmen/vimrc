@@ -1,0 +1,10 @@
+https://github.com/Valloric/YouCompleteMe.git
+https://github.com/scrooloose/nerdcommenter.git
+https://github.com/scrooloose/nerdtree.git
+https://github.com/moll/vim-node.git
+https://github.com/klen/python-mode.git
+https://github.com/Chiel92/vim-autoformat
+git://github.com/altercation/vim-colors-solarized.git
+https://github.com/fatih/vim-go.git
+https://github.com/pangloss/vim-javascript.git
+https://github.com/digitaltoad/vim-pug.git
