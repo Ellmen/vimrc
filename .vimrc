@@ -9,3 +9,4 @@ autocmd Filetype javascript setlocal ts=2 sts=2 sw=2 expandtab
 autocmd Filetype html setlocal ts=2 sts=2 sw=2 expandtab
 autocmd Filetype xml setlocal ts=2 sts=2 sw=2 expandtab
 au BufReadPost *.hbs set syntax=html
+:nnoremap Q <Nop>
